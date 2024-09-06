@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sijan Giri</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
-<img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg" alt="sijan-giri" />
+<img src="https://static.vecteezy.com/system/resources/thumbnails/016/915/102/small/man-programmer-is-working-on-his-laptop-coding-and-programming-vector.jpg" alt="sijan-giri" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijan-giri&label=Profile%20views&color=0e75b6&style=flat" alt="sijan-giri" /> </p>
 
