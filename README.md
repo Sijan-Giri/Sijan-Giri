@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 <img src="https://static.vecteezy.com/system/resources/thumbnails/016/915/102/small/man-programmer-is-working-on-his-laptop-coding-and-programming-vector.jpg" alt="sijan-giri" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sijan-giri&label=Profile%20views&color=0e75b6&style=flat" alt="sijan-giri" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
