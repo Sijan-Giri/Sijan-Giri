@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sijan-giri&show_icons=true&locale=en&layout=compact" alt="sijan-giri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijan-giri&show_icons=true&locale=en" alt="sijan-giri" /></p>
+
 
 
